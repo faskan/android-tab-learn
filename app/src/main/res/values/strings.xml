@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LearnTabs</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">These are the top stories!</string>
+    <string name="tab_fragment_2">Tab Fragment 2</string>
+    <string name="tab_fragment_3">Tab Fragment 3</string>
+    <string name="tab_label1">Tab Label 1</string>
+    <string name="tab_label2">Tab Label 2</string>
+    <string name="tab_label3">Tab Label 3</string>
+</resources>
